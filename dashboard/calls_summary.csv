@@ -1,0 +1,11 @@
+customer_service_calls,total,churned,churn_rate,risk_level
+0,697,92,13.2,Low Risk
+1,1181,122,10.33,Low Risk
+2,759,87,11.46,Medium Risk
+3,429,44,10.26,Medium Risk
+4,166,76,45.78,High Risk
+5,66,40,60.61,High Risk
+6,22,14,63.64,High Risk
+7,9,5,55.56,High Risk
+8,2,1,50.0,High Risk
+9,2,2,100.0,High Risk
